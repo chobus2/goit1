@@ -1,0 +1,22 @@
+html,body{
+	margin: 0;
+	padding: 0;
+	
+ 	font-style: Verdana 18px;
+ }
+ .menu{
+ 	float: left;
+
+ 	}
+
+
+ 
+strong{
+	background: red;
+	font-size: 19px;
+}
+em{
+
+	background: green;
+}
+
